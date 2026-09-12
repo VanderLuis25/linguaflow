@@ -1,21 +1,21 @@
 @import "tailwindcss";
 
 :root {
-  --page-bg: hsla(212, 100%, 65%, 0.781);
-  --surface-1: #219ee7;
-  --surface-2: #1f9edd79;
-  --surface-3: #244d75;
-  --text-primary: #1d4c81;
-  --text-secondary: #113d70;
-  --text-muted: #007dbb;
+  --page-bg: #E9F1FA;
+  --surface-1: #FFFFFF;
+  --surface-2: #E5EDF1;
+  --surface-3: #F8F9FA;
+  --text-primary: #0A1828;
+  --text-secondary: #38414b;
+  --text-muted: #353738;
   --brand-primary: #00ABE4;
-  --brand-secondary: #03504d;
+  --brand-secondary: #178582;
   --brand-accent: #00eeff;
   --brand-accent-soft: #00f7ff;
-  --brand-cool: #1c8ecf;
-  --gold: #ff8400;
+  --brand-cool: #96C2DB;
+  --gold: #BFA181;
   --black: #000000;
-  --shadow-soft: rgba(1, 23, 46, 0.945);
+  --shadow-soft: rgba(10, 24, 40, 0.12);
 
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: var(--text-primary);
@@ -237,7 +237,7 @@ nav button.active {
   display: flex;
   gap: 7px;
   align-items: center;
-  color: #a1acbc;
+  color: #36e4d5;
   font-size: 10px;
   margin: 0 0 6px;
 }
@@ -262,7 +262,7 @@ nav button.active {
 .mobile-menu,
 .close-mobile {
   background: transparent;
-  color: #8b97a9;
+  color: #10abc0;
 }
 
 .header-avatar {
