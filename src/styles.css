@@ -1,15 +1,15 @@
 @import "tailwindcss";
 
 :root {
-  --page-bg: #E9F1FA;
-  --surface-1: #FFFFFF;
+  --page-bg: hsla(212, 100%, 65%, 0.781);
+  --surface-1: #219ee7;
   --surface-2: #1f9edd79;
   --surface-3: #244d75;
   --text-primary: #1d4c81;
   --text-secondary: #113d70;
   --text-muted: #007dbb;
   --brand-primary: #00ABE4;
-  --brand-secondary: #07524f;
+  --brand-secondary: #03504d;
   --brand-accent: #00eeff;
   --brand-accent-soft: #00f7ff;
   --brand-cool: #1c8ecf;
